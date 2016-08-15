@@ -1,0 +1,10 @@
+name: Benefits
+account: kdt43
+server: shinyapps.io
+appId: 92818
+bundleId: 487563
+url: https://kdt43.shinyapps.io/Benefits/
+when: 1466696485.58337
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test/testBenefits.R
